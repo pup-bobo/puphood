@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/puphood/static/css/main.c6a511c2.css",
-    "main.js": "/puphood/static/js/main.7a7d8622.js",
+    "main.css": "/puphood/static/css/main.fc4f7602.css",
+    "main.js": "/puphood/static/js/main.d4e16d54.js",
     "static/js/453.69b63931.chunk.js": "/puphood/static/js/453.69b63931.chunk.js",
-    "static/media/logo.jpg": "/puphood/static/media/logo.b5e611f134076f087659.jpg",
+    "static/media/logo.png": "/puphood/static/media/logo.8c51ba459f3dc233d28e.png",
+    "static/media/fur-muzzle-assoicate-mustache.jpg": "/puphood/static/media/fur-muzzle-assoicate-mustache.587d976e98cb21b95b6c.jpg",
+    "static/media/fur-muzzle-assoicate-fur.jpg": "/puphood/static/media/fur-muzzle-assoicate-fur.99b224504a31fba0973f.jpg",
     "static/media/eye-frame.jpg": "/puphood/static/media/eye-frame.99290acd5f16566f0e05.jpg",
+    "static/media/muzzle-assoicate-mustache.jpg": "/puphood/static/media/muzzle-assoicate-mustache.d5c3f257f55453278464.jpg",
+    "static/media/muzzle-assoicate-fur.jpg": "/puphood/static/media/muzzle-assoicate-fur.28b2af62f52df62cef2e.jpg",
+    "static/media/added-muzzle-fur.jpg": "/puphood/static/media/added-muzzle-fur.7599447823531b7ac40d.jpg",
     "static/media/eye-default.jpg": "/puphood/static/media/eye-default.0d2d748bcc53a744f504.jpg",
     "static/media/eye-dou.jpg": "/puphood/static/media/eye-dou.6b310dbfe30e76978759.jpg",
+    "static/media/ear.jpg": "/puphood/static/media/ear.4ec9b949a0b8422c3ed8.jpg",
+    "static/media/added-muzzle-default.jpg": "/puphood/static/media/added-muzzle-default.0b7ca6c1ba9fdb9ebbfc.jpg",
+    "static/media/fur-muzzle-assoicate-default.jpg": "/puphood/static/media/fur-muzzle-assoicate-default.901aa5129eaffc9c3f8d.jpg",
+    "static/media/muzzle-assoicate-default.jpg": "/puphood/static/media/muzzle-assoicate-default.532fdb5b284328e0b9b4.jpg",
     "static/media/muzzle-fur.jpg": "/puphood/static/media/muzzle-fur.7669fce9f6b45e934fe2.jpg",
     "static/media/muzzle-default.jpg": "/puphood/static/media/muzzle-default.5acca1529dffcb6722c5.jpg",
-    "static/media/added-muzzle-fur.jpg": "/puphood/static/media/added-muzzle-fur.959d15b3e156d4168872.jpg",
-    "static/media/added-muzzle-default.jpg": "/puphood/static/media/added-muzzle-default.b483638c1128e2a02199.jpg",
     "index.html": "/puphood/index.html",
-    "main.c6a511c2.css.map": "/puphood/static/css/main.c6a511c2.css.map",
-    "main.7a7d8622.js.map": "/puphood/static/js/main.7a7d8622.js.map",
+    "main.fc4f7602.css.map": "/puphood/static/css/main.fc4f7602.css.map",
+    "main.d4e16d54.js.map": "/puphood/static/js/main.d4e16d54.js.map",
     "453.69b63931.chunk.js.map": "/puphood/static/js/453.69b63931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6a511c2.css",
-    "static/js/main.7a7d8622.js"
+    "static/css/main.fc4f7602.css",
+    "static/js/main.d4e16d54.js"
   ]
 }
