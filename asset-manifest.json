@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/puphood/static/css/main.fc4f7602.css",
-    "main.js": "/puphood/static/js/main.25b9ba24.js",
-    "static/js/453.69b63931.chunk.js": "/puphood/static/js/453.69b63931.chunk.js",
-    "static/media/logo.png": "/puphood/static/media/logo.8c51ba459f3dc233d28e.png",
-    "static/media/fur-muzzle-assoicate-fur.png": "/puphood/static/media/fur-muzzle-assoicate-fur.7f8c6f770a5a931b7502.png",
-    "static/media/muzzle-assoicate-fur.png": "/puphood/static/media/muzzle-assoicate-fur.ed042e27e8b08aefe68c.png",
-    "static/media/fur-muzzle-assoicate-mustache.png": "/puphood/static/media/fur-muzzle-assoicate-mustache.8b8f200760c434246f1b.png",
-    "static/media/added-muzzle-fur.png": "/puphood/static/media/added-muzzle-fur.f733842bffa093c1b00d.png",
-    "static/media/muzzle-assoicate-mustache.png": "/puphood/static/media/muzzle-assoicate-mustache.5aca869311b1b7f6b3e8.png",
-    "static/media/eye-frame.png": "/puphood/static/media/eye-frame.67d5b746950156841143.png",
-    "static/media/eye-default.png": "/puphood/static/media/eye-default.ae35ac98f5dab57045b7.png",
-    "static/media/ear.png": "/puphood/static/media/ear.3dd8ae2d08b76c392caa.png",
-    "static/media/added-muzzle-default.png": "/puphood/static/media/added-muzzle-default.50ad04352fa5dc14a6e9.png",
-    "static/media/eye-dou.png": "/puphood/static/media/eye-dou.33bbadea006ba87966f5.png",
-    "static/media/fur-muzzle-assoicate-default.png": "/puphood/static/media/fur-muzzle-assoicate-default.a9901922146bc9f8623f.png",
-    "static/media/muzzle-fur.png": "/puphood/static/media/muzzle-fur.97dcb30ff603ea594045.png",
-    "static/media/muzzle-assoicate-default.png": "/puphood/static/media/muzzle-assoicate-default.911eddd0b7c40d631e32.png",
-    "static/media/muzzle-default.png": "/puphood/static/media/muzzle-default.9ec3934d45c77a0ead85.png",
-    "index.html": "/puphood/index.html",
-    "main.fc4f7602.css.map": "/puphood/static/css/main.fc4f7602.css.map",
-    "main.25b9ba24.js.map": "/puphood/static/js/main.25b9ba24.js.map",
-    "453.69b63931.chunk.js.map": "/puphood/static/js/453.69b63931.chunk.js.map"
+    "main.css": "/static/css/main.fc4f7602.css",
+    "main.js": "/static/js/main.70f43815.js",
+    "static/js/453.69b63931.chunk.js": "/static/js/453.69b63931.chunk.js",
+    "static/media/logo.png": "/static/media/logo.8c51ba459f3dc233d28e.png",
+    "static/media/fur-muzzle-assoicate-fur.png": "/static/media/fur-muzzle-assoicate-fur.7f8c6f770a5a931b7502.png",
+    "static/media/muzzle-assoicate-fur.png": "/static/media/muzzle-assoicate-fur.ed042e27e8b08aefe68c.png",
+    "static/media/fur-muzzle-assoicate-mustache.png": "/static/media/fur-muzzle-assoicate-mustache.8b8f200760c434246f1b.png",
+    "static/media/added-muzzle-fur.png": "/static/media/added-muzzle-fur.f733842bffa093c1b00d.png",
+    "static/media/muzzle-assoicate-mustache.png": "/static/media/muzzle-assoicate-mustache.5aca869311b1b7f6b3e8.png",
+    "static/media/eye-frame.png": "/static/media/eye-frame.67d5b746950156841143.png",
+    "static/media/eye-default.png": "/static/media/eye-default.ae35ac98f5dab57045b7.png",
+    "static/media/ear.png": "/static/media/ear.3dd8ae2d08b76c392caa.png",
+    "static/media/added-muzzle-default.png": "/static/media/added-muzzle-default.50ad04352fa5dc14a6e9.png",
+    "static/media/eye-dou.png": "/static/media/eye-dou.33bbadea006ba87966f5.png",
+    "static/media/fur-muzzle-assoicate-default.png": "/static/media/fur-muzzle-assoicate-default.a9901922146bc9f8623f.png",
+    "static/media/muzzle-fur.png": "/static/media/muzzle-fur.97dcb30ff603ea594045.png",
+    "static/media/muzzle-assoicate-default.png": "/static/media/muzzle-assoicate-default.911eddd0b7c40d631e32.png",
+    "static/media/muzzle-default.png": "/static/media/muzzle-default.9ec3934d45c77a0ead85.png",
+    "index.html": "/index.html",
+    "main.fc4f7602.css.map": "/static/css/main.fc4f7602.css.map",
+    "main.70f43815.js.map": "/static/js/main.70f43815.js.map",
+    "453.69b63931.chunk.js.map": "/static/js/453.69b63931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc4f7602.css",
-    "static/js/main.25b9ba24.js"
+    "static/js/main.70f43815.js"
   ]
 }
