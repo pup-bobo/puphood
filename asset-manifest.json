@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.af8aa428.css",
-    "main.js": "/static/js/main.432f238a.js",
+    "main.js": "/static/js/main.81d9227e.js",
     "static/js/453.69b63931.chunk.js": "/static/js/453.69b63931.chunk.js",
     "static/media/logo.png": "/static/media/logo.8c51ba459f3dc233d28e.png",
     "static/media/fur-muzzle-assoicate-fur.png": "/static/media/fur-muzzle-assoicate-fur.7f8c6f770a5a931b7502.png",
@@ -20,11 +20,11 @@
     "static/media/muzzle-default.png": "/static/media/muzzle-default.9ec3934d45c77a0ead85.png",
     "index.html": "/index.html",
     "main.af8aa428.css.map": "/static/css/main.af8aa428.css.map",
-    "main.432f238a.js.map": "/static/js/main.432f238a.js.map",
+    "main.81d9227e.js.map": "/static/js/main.81d9227e.js.map",
     "453.69b63931.chunk.js.map": "/static/js/453.69b63931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af8aa428.css",
-    "static/js/main.432f238a.js"
+    "static/js/main.81d9227e.js"
   ]
 }
