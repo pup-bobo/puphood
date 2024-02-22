@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/puphood/static/css/main.fc4f7602.css",
-    "main.js": "/puphood/static/js/main.bf311d4f.js",
+    "main.js": "/puphood/static/js/main.25b9ba24.js",
     "static/js/453.69b63931.chunk.js": "/puphood/static/js/453.69b63931.chunk.js",
     "static/media/logo.png": "/puphood/static/media/logo.8c51ba459f3dc233d28e.png",
     "static/media/fur-muzzle-assoicate-fur.png": "/puphood/static/media/fur-muzzle-assoicate-fur.7f8c6f770a5a931b7502.png",
@@ -20,11 +20,11 @@
     "static/media/muzzle-default.png": "/puphood/static/media/muzzle-default.9ec3934d45c77a0ead85.png",
     "index.html": "/puphood/index.html",
     "main.fc4f7602.css.map": "/puphood/static/css/main.fc4f7602.css.map",
-    "main.bf311d4f.js.map": "/puphood/static/js/main.bf311d4f.js.map",
+    "main.25b9ba24.js.map": "/puphood/static/js/main.25b9ba24.js.map",
     "453.69b63931.chunk.js.map": "/puphood/static/js/453.69b63931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc4f7602.css",
-    "static/js/main.bf311d4f.js"
+    "static/js/main.25b9ba24.js"
   ]
 }
